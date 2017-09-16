@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\pranay\Documents\MultiPlayerDemo\Library\MultiPlayerDemo\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4cdcec43cf45828036b0a12c88602e60520eac00">
+        <dex dex="C:\Users\pranay\Documents\MultiPlayerDemo\Library\MultiPlayerDemo\build\intermediates\pre-dexed\debug\unity-classes_ce09826ffc5894a7fa53f74e62c80c111ef7e2cb.jar" />
+    </item>
+
+</items>
